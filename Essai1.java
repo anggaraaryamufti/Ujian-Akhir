@@ -26,6 +26,6 @@ public class Essai1 extends AppCompatActivity {
         setContentView(R.layout.activity_essai2);
 
     }void clickedbutton(View v){
-        teks.setText("Tombol sudah dipencet");
+        teks.setText("button has been clicked");
     }
 }
